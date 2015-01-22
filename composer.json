@@ -1,8 +1,8 @@
 {
-    "name": "filoblu/mod-iris",
+    "name": "marcatos/cdn",
     "license": "OSL-3.0",
     "type": "magento-module",
-    "description": "Mod Iris",
+    "description": "AWS cdn",
     "homepage": "http://www.filoblu.com",
     "authors": [
         {
