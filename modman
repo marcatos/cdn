@@ -1,0 +1,5 @@
+app/code/community/MageFM/CDN/*       app/code/community/MageFM/CDN
+app/etc/modules/MageFM_CDN.xml        app/etc/modules/MageFM_CDN.xml
+app/locale/en_US/MageFM_CDN.csv       app/locale/en_US/MageFM_CDN.csv
+app/locale/pt_BR/MageFM_CDN.csv       app/locale/pt_BR/MageFM_CDN.csv
+lib/*                                 lib
